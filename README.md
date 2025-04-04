@@ -92,7 +92,7 @@ docker build .
 The following options are available:
 
 <div align="center">
-  <img src="https://github.com/Neved4/uncloakCDN/assets/63655535/c6ebea8b-f77c-4d28-9ebd-319307c5703c" alt="usage --help" style="width: 85%" />
+  <img src="https://github.com/Neved4/behindTheCDN/assets/63655535/c6ebea8b-f77c-4d28-9ebd-319307c5703c" alt="usage --help" style="width: 85%" />
 </div>
 
 <details>
